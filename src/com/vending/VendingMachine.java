@@ -4,7 +4,9 @@ public interface VendingMachine {
 	public int selectItem_Getprice();
 	public int insertMoney(int price);
 	public void collectItemandchange(int change);
-	ameena
+
+	12345
+
 }
 
 
